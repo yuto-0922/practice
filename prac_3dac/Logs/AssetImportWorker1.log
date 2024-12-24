@@ -1555,3 +1555,5 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:scripting/monoscript/fileName/CheckGround.cs: 4b1e503375cfd6648a60c237ba681deb -> 18e5161bc367145fc9872db257183dfa
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
